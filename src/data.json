@@ -1,0 +1,5130 @@
+{
+  "content": [
+    {
+      "name": "body_text",
+      "value": "text",
+      "display": "HTML",
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "deleted": null
+    },
+    {
+      "name": "json_text",
+      "value": "text",
+      "display": "JSON",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "subject_text",
+      "value": "text",
+      "display": "Subject - deleted",
+      "deleted": true
+    }
+  ],
+  "aa": [],
+  "all_cities": [
+    {
+      "name": "country_name_text",
+      "value": "text",
+      "display": "country name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "city name",
+      "deleted": null
+    },
+    {
+      "name": "plate_number_number",
+      "value": "number",
+      "display": "plate number",
+      "deleted": null
+    }
+  ],
+  "appointment": [
+    {
+      "name": "age_number",
+      "value": "number",
+      "display": "Age - deleted",
+      "deleted": true
+    },
+    {
+      "name": "all_day_boolean",
+      "value": "boolean",
+      "display": "all day",
+      "deleted": null
+    },
+    {
+      "name": "appointment_overlap_boolean",
+      "value": "boolean",
+      "display": "appointment-overlap",
+      "deleted": null
+    },
+    {
+      "name": "appointment_overlap_custom_appointment",
+      "value": "custom.appointment",
+      "display": "appointment-overlap - deleted",
+      "deleted": true
+    },
+    {
+      "name": "appointmentcount_number",
+      "value": "number",
+      "display": "AppointmentCount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "appointmentfilter_custom_appointment",
+      "value": "custom.appointment",
+      "display": "AppointmentFilter - deleted",
+      "deleted": true
+    },
+    {
+      "name": "appointmenttemp_list_custom_appointment",
+      "value": "list.custom.appointment",
+      "display": "AppointmentTemp",
+      "deleted": null
+    },
+    {
+      "name": "background1_boolean",
+      "value": "boolean",
+      "display": "background - deleted",
+      "deleted": true
+    },
+    {
+      "name": "background2_boolean",
+      "value": "boolean",
+      "display": "background",
+      "deleted": null
+    },
+    {
+      "name": "background_boolean",
+      "value": "boolean",
+      "display": "background - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_recurrence_boolean",
+      "value": "boolean",
+      "display": "Checkbox_Recurrence - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkboxdays_custom_checkboxdays",
+      "value": "custom.checkboxdays",
+      "display": "CheckboxDays - deleted",
+      "deleted": true
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "daytype_option_dayofweektype",
+      "value": "option.dayofweektype",
+      "display": "DayType",
+      "deleted": null
+    },
+    {
+      "name": "deleteshift_boolean",
+      "value": "boolean",
+      "display": "DeleteShift - deleted",
+      "deleted": true
+    },
+    {
+      "name": "divideddate1_custom_divideddate",
+      "value": "custom.divideddate",
+      "display": "DividedDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "divideddate1_number",
+      "value": "number",
+      "display": "DividedDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "divideddate_custom_divideddate",
+      "value": "custom.divideddate",
+      "display": "DividedDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "divideddate_number",
+      "value": "number",
+      "display": "DividedDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "draft_boolean",
+      "value": "boolean",
+      "display": "Draft",
+      "deleted": null
+    },
+    {
+      "name": "draggable_boolean",
+      "value": "boolean",
+      "display": "draggable",
+      "deleted": null
+    },
+    {
+      "name": "dual_appointment_boolean",
+      "value": "boolean",
+      "display": "Dual_Appointment",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "duration_number",
+      "value": "number",
+      "display": "Duration",
+      "deleted": null
+    },
+    {
+      "name": "enddatetime_date",
+      "value": "date",
+      "display": "end date",
+      "deleted": null
+    },
+    {
+      "name": "eventcolor_text",
+      "value": "text",
+      "display": "eventcolor",
+      "default_val": "",
+      "deleted": null
+    },
+    {
+      "name": "eventfontcolor1_text",
+      "value": "text",
+      "display": "eventfontcolor - deleted",
+      "deleted": true
+    },
+    {
+      "name": "eventfontcolor_text",
+      "value": "text",
+      "display": "eventfontcolor",
+      "deleted": null
+    },
+    {
+      "name": "eventtitle1_text",
+      "value": "text",
+      "display": "eventtitle",
+      "deleted": null
+    },
+    {
+      "name": "eventtitle_text",
+      "value": "text",
+      "display": "eventtitle - deleted",
+      "deleted": true
+    },
+    {
+      "name": "excusedescription1_text",
+      "value": "text",
+      "display": "ExcuseDescription",
+      "deleted": null
+    },
+    {
+      "name": "excusedescription_text",
+      "value": "text",
+      "display": "ExcuseDescription - deleted",
+      "deleted": true
+    },
+    {
+      "name": "excusetitle_text",
+      "value": "text",
+      "display": "ExcuseTitle",
+      "deleted": null
+    },
+    {
+      "name": "firstappointment_boolean",
+      "value": "boolean",
+      "display": "FirstAppointment",
+      "deleted": null
+    },
+    {
+      "name": "fix_id1_number",
+      "value": "number",
+      "display": "fix_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "fix_id2_number",
+      "value": "number",
+      "display": "shift_id",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "fix_id_number",
+      "value": "number",
+      "display": "fix_id - deleted",
+      "deleted": true
+    },
+    {
+      "name": "genderpreference_option_genderpreference",
+      "value": "option.genderpreference",
+      "display": "GenderPreference",
+      "default_val": "none",
+      "deleted": null
+    },
+    {
+      "name": "hakedi__number",
+      "value": "number",
+      "display": "Hakediş",
+      "deleted": null
+    },
+    {
+      "name": "inverse_background_text",
+      "value": "text",
+      "display": "type",
+      "deleted": null
+    },
+    {
+      "name": "isprivateappointment_boolean",
+      "value": "boolean",
+      "display": "IsPrivateAppointment",
+      "deleted": null
+    },
+    {
+      "name": "isshift_boolean",
+      "value": "boolean",
+      "display": "IsShift",
+      "deleted": null
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes",
+      "deleted": null
+    },
+    {
+      "name": "monthtype_option_monthtype",
+      "value": "option.monthtype",
+      "display": "MonthType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "overlap1_boolean",
+      "value": "boolean",
+      "display": "overlap",
+      "deleted": null
+    },
+    {
+      "name": "overlap_boolean",
+      "value": "boolean",
+      "display": "overlap - deleted",
+      "deleted": true
+    },
+    {
+      "name": "recurrence_custom_recurrence",
+      "value": "custom.recurrence",
+      "display": "Recurrence - deleted",
+      "deleted": true
+    },
+    {
+      "name": "referencetype_option_referencetype",
+      "value": "option.referencetype",
+      "display": "ReferenceType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "report_service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "report-Service",
+      "deleted": null
+    },
+    {
+      "name": "resizable1_boolean",
+      "value": "boolean",
+      "display": "resizable",
+      "deleted": null
+    },
+    {
+      "name": "resizable_boolean",
+      "value": "boolean",
+      "display": "resizable - deleted",
+      "deleted": true
+    },
+    {
+      "name": "room_custom_room",
+      "value": "custom.room",
+      "display": "Room",
+      "deleted": null
+    },
+    {
+      "name": "room_overlap_boolean",
+      "value": "boolean",
+      "display": "room-overlap",
+      "deleted": null
+    },
+    {
+      "name": "service1_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service - deleted",
+      "deleted": true
+    },
+    {
+      "name": "service2_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service",
+      "deleted": null
+    },
+    {
+      "name": "service__custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service  - deleted",
+      "deleted": true
+    },
+    {
+      "name": "service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service - deleted",
+      "deleted": true
+    },
+    {
+      "name": "service_text",
+      "value": "text",
+      "display": "Service - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicegroup_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup",
+      "deleted": null
+    },
+    {
+      "name": "sessionsold_custom_sessionsold",
+      "value": "custom.sessionsold",
+      "display": "SessionSold",
+      "deleted": null
+    },
+    {
+      "name": "srv_custom_cartitem",
+      "value": "custom.cartitem",
+      "display": "srv - deleted",
+      "deleted": true
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "staffassignment_custom_staffassignment",
+      "value": "custom.staffassignment",
+      "display": "StaffAssignment",
+      "deleted": null
+    },
+    {
+      "name": "staffrequested_boolean",
+      "value": "boolean",
+      "display": "StaffRequested",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "start_endrange_date_range",
+      "value": "date_range",
+      "display": "Start-EndRange",
+      "deleted": null
+    },
+    {
+      "name": "startdatetime_date",
+      "value": "date",
+      "display": "start date",
+      "deleted": null
+    },
+    {
+      "name": "state_recurrence_boolean",
+      "value": "boolean",
+      "display": "Checkbox_Recurrence",
+      "deleted": null
+    },
+    {
+      "name": "status_option_appointmentstatus",
+      "value": "option.appointmentstatus",
+      "display": "Status",
+      "default_val": "booked",
+      "deleted": null
+    },
+    {
+      "name": "svr_custom_sale",
+      "value": "custom.sale",
+      "display": "svr - deleted",
+      "deleted": true
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "title",
+      "deleted": null
+    },
+    {
+      "name": "titletab_text",
+      "value": "text",
+      "display": "titletab",
+      "deleted": null
+    }
+  ],
+  "appointmentnumber": [
+    {
+      "name": "20derspaket_number",
+      "value": "number",
+      "display": "20DersPaket",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "appnumber_number",
+      "value": "number",
+      "display": "10DersPaket",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "dualpilates10ders_number",
+      "value": "number",
+      "display": "DualPilates10Ders",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "dualpilates20ders_number",
+      "value": "number",
+      "display": "DualPilates20Ders",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "dualpilates30ders_number",
+      "value": "number",
+      "display": "DualPilates30Ders",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "first_name1_text",
+      "value": "text",
+      "display": "First Name",
+      "deleted": null
+    },
+    {
+      "name": "first_name_text",
+      "value": "text",
+      "display": "Last Name",
+      "deleted": false
+    },
+    {
+      "name": "firstname_custom_client",
+      "value": "custom.client",
+      "display": "FirstName - deleted",
+      "deleted": true
+    },
+    {
+      "name": "iterationnumber_number",
+      "value": "number",
+      "display": "IterationNumber - deleted",
+      "deleted": true
+    }
+  ],
+  "appointmenttype": [
+    {
+      "name": "assignedstaff_list_custom_staff",
+      "value": "list.custom.staff",
+      "display": "AssignedStaff - deleted",
+      "deleted": true
+    },
+    {
+      "name": "capacity_number",
+      "value": "number",
+      "display": "Capacity",
+      "deleted": null
+    },
+    {
+      "name": "ciftrandevu_boolean",
+      "value": "boolean",
+      "display": "DualAppoinment",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "defaultbookingtime_number",
+      "value": "number",
+      "display": "DefaultBookingTime",
+      "default_val": 60,
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "grossprice_number",
+      "value": "number",
+      "display": "GrossPrice",
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "isaddon_boolean",
+      "value": "boolean",
+      "display": "IsAddOn",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "revenuecategory_custom_revenuecategory",
+      "value": "custom.revenuecategory",
+      "display": "RevenueCategory",
+      "deleted": null
+    },
+    {
+      "name": "revenuecategory_option_revenuecategory",
+      "value": "option.revenuecategory",
+      "display": "RevenueCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory",
+      "deleted": null
+    },
+    {
+      "name": "type_custom_servicetype",
+      "value": "custom.servicetype",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "asset": [
+    {
+      "name": "assetcategory_custom_assetcategory",
+      "value": "custom.assetcategory",
+      "display": "AssetCategory",
+      "deleted": null
+    },
+    {
+      "name": "category_option_assetcategory",
+      "value": "option.assetcategory",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "givendate_date",
+      "value": "date",
+      "display": "GivenDate",
+      "deleted": null
+    },
+    {
+      "name": "isreturned_boolean",
+      "value": "boolean",
+      "display": "IsReturned",
+      "deleted": null
+    },
+    {
+      "name": "returndate_date",
+      "value": "date",
+      "display": "ReturnDate",
+      "deleted": null
+    },
+    {
+      "name": "serialnumber_text",
+      "value": "text",
+      "display": "SerialNumber",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "assetcategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "campaign": [
+    {
+      "name": "bcc_text",
+      "value": "text",
+      "display": "BCC",
+      "deleted": null
+    },
+    {
+      "name": "emailtemplate_custom_content",
+      "value": "custom.content",
+      "display": "EmailTemplate",
+      "deleted": null
+    },
+    {
+      "name": "enddate_date",
+      "value": "date",
+      "display": "EndDate",
+      "deleted": null
+    },
+    {
+      "name": "from_text",
+      "value": "text",
+      "display": "From",
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "segment_custom_segment",
+      "value": "custom.segment",
+      "display": "ClientSegment",
+      "deleted": null
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartDate",
+      "deleted": null
+    },
+    {
+      "name": "subject_text",
+      "value": "text",
+      "display": "Subject",
+      "deleted": null
+    },
+    {
+      "name": "to_text",
+      "value": "text",
+      "display": "CC",
+      "deleted": null
+    }
+  ],
+  "cartitem": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "discounttype_option_discounttype",
+      "value": "option.discounttype",
+      "display": "DiscountType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "isreturned1_boolean",
+      "value": "boolean",
+      "display": "IsReturned - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "isreturned_boolean",
+      "value": "boolean",
+      "display": "IsReturned",
+      "default_val": false,
+      "deleted": false
+    },
+    {
+      "name": "linked_purchasedgiftcard_custom_purchasedgiftcard",
+      "value": "custom.purchasedgiftcard",
+      "display": "Linked-PurchasedGiftCard",
+      "deleted": null
+    },
+    {
+      "name": "linked_purchasedproduct_custom_purchasedproduct",
+      "value": "custom.purchasedproduct",
+      "display": "Linked-PurchasedProduct",
+      "deleted": null
+    },
+    {
+      "name": "linked_purchasedservice_custom_purchaseditem",
+      "value": "custom.purchaseditem",
+      "display": "Linked-PurchasedService",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "strikethrough_boolean",
+      "value": "boolean",
+      "display": "StrikeThrough - deleted",
+      "deleted": true
+    },
+    {
+      "name": "subtotal_number",
+      "value": "number",
+      "display": "SubTotal",
+      "deleted": null
+    },
+    {
+      "name": "totalprice_number",
+      "value": "number",
+      "display": "GrandTotal",
+      "deleted": null
+    },
+    {
+      "name": "type_text",
+      "value": "text",
+      "display": "Type",
+      "deleted": null
+    },
+    {
+      "name": "unitprice_number",
+      "value": "number",
+      "display": "DiscountTotal",
+      "deleted": null
+    }
+  ],
+  "category": [
+    {
+      "name": "childcategories_list_option_category",
+      "value": "list.option.category",
+      "display": "Subcategories - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "parentcategory_option_category",
+      "value": "option.category",
+      "display": "ParentCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "subcategories_list_custom_costsubcategories",
+      "value": "list.custom.costsubcategories",
+      "display": "Subcategories",
+      "deleted": null
+    },
+    {
+      "name": "subcategories_list_custom_subcategory",
+      "value": "list.custom.subcategory",
+      "display": "ChildCategories - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_option_costtype",
+      "value": "option.costtype",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "certificate": [
+    {
+      "name": "courserequirements_list_custom_course",
+      "value": "list.custom.course",
+      "display": "CourseRequirements",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "examrequirements_list_custom_exam",
+      "value": "list.custom.exam",
+      "display": "ExamRequirements",
+      "deleted": null
+    },
+    {
+      "name": "image_image",
+      "value": "image",
+      "display": "Image",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "type_option_coursecategory",
+      "value": "option.coursecategory",
+      "display": "Type",
+      "default_val": "sertifika",
+      "deleted": null
+    }
+  ],
+  "checkboxdays": [
+    {
+      "name": "checkbox__a_date",
+      "value": "date",
+      "display": "Checkbox Ça",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_ct_date",
+      "value": "date",
+      "display": "Checkbox Ct",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_cu_date",
+      "value": "date",
+      "display": "Checkbox Cu",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pa_date",
+      "value": "date",
+      "display": "Checkbox Pa",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pe_date",
+      "value": "date",
+      "display": "Checkbox Pe",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pt_date",
+      "value": "date",
+      "display": "Checkbox Pt",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_sa_date",
+      "value": "date",
+      "display": "Checkbox Sa",
+      "deleted": null
+    }
+  ],
+  "class": [
+    {
+      "name": "capacity_number",
+      "value": "number",
+      "display": "Capacity",
+      "deleted": null
+    },
+    {
+      "name": "client1_custom_client",
+      "value": "custom.client",
+      "display": "Client - deleted",
+      "deleted": true
+    },
+    {
+      "name": "client__list_custom_client",
+      "value": "list.custom.client",
+      "display": "Client  - deleted",
+      "deleted": true
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client - deleted",
+      "deleted": true
+    },
+    {
+      "name": "comments_list_text",
+      "value": "list.text",
+      "display": "Comments",
+      "deleted": null
+    },
+    {
+      "name": "course_custom_course",
+      "value": "custom.course",
+      "display": "course",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "enrollmentlist_list_custom_client",
+      "value": "list.custom.client",
+      "display": "EnrollmentList",
+      "deleted": null
+    },
+    {
+      "name": "instructorlist_list_custom_staff",
+      "value": "list.custom.staff",
+      "display": "InstructorList",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Notes",
+      "deleted": null
+    },
+    {
+      "name": "online_boolean",
+      "value": "boolean",
+      "display": "Online",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sessioncount_number",
+      "value": "number",
+      "display": "SessionCount",
+      "deleted": null
+    },
+    {
+      "name": "sessions_list_custom_session",
+      "value": "list.custom.session",
+      "display": "Sessions",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "classtype": [
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory",
+      "deleted": null
+    }
+  ],
+  "client": [
+    {
+      "name": "active_boolean",
+      "value": "boolean",
+      "display": "IsActive - deleted",
+      "default_val": true,
+      "deleted": true
+    },
+    {
+      "name": "addressline_text",
+      "value": "text",
+      "display": "Address",
+      "deleted": null
+    },
+    {
+      "name": "age_number",
+      "value": "number",
+      "display": "Age",
+      "deleted": null
+    },
+    {
+      "name": "appointmentnumber1_custom_appointmentnumber",
+      "value": "custom.appointmentnumber",
+      "display": "AppointmentNumber",
+      "deleted": null
+    },
+    {
+      "name": "appointmentnumber_custom_appointmentnumber",
+      "value": "custom.appointmentnumber",
+      "display": "AppointmentNumber - deleted",
+      "deleted": true
+    },
+    {
+      "name": "appointments_list_custom_appointment",
+      "value": "list.custom.appointment",
+      "display": "Appointments",
+      "deleted": null
+    },
+    {
+      "name": "balance1_number",
+      "value": "number",
+      "display": "Balance - deleted",
+      "deleted": true
+    },
+    {
+      "name": "balance_number",
+      "value": "number",
+      "display": "Balance",
+      "deleted": null
+    },
+    {
+      "name": "birthdate1_date",
+      "value": "date",
+      "display": "BirthDate",
+      "deleted": null
+    },
+    {
+      "name": "birthdate_date",
+      "value": "date",
+      "display": "BirthDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "city_custom_all_cities",
+      "value": "custom.all_cities",
+      "display": "City",
+      "deleted": null
+    },
+    {
+      "name": "city_text",
+      "value": "text",
+      "display": "City - deleted",
+      "deleted": true
+    },
+    {
+      "name": "companystatus_text",
+      "value": "text",
+      "display": "CompanyStatus",
+      "deleted": null
+    },
+    {
+      "name": "country_custom_countries_data",
+      "value": "custom.countries_data",
+      "display": "Country",
+      "deleted": null
+    },
+    {
+      "name": "country_text",
+      "value": "text",
+      "display": "Country - deleted",
+      "deleted": true
+    },
+    {
+      "name": "dateaddedtolist_date",
+      "value": "date",
+      "display": "DateAddedToList",
+      "deleted": null
+    },
+    {
+      "name": "district_custom_district_data",
+      "value": "custom.district_data",
+      "display": "District",
+      "deleted": null
+    },
+    {
+      "name": "district_text",
+      "value": "text",
+      "display": "District - deleted",
+      "deleted": true
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "Email",
+      "deleted": null
+    },
+    {
+      "name": "emergencycontactemail_text",
+      "value": "text",
+      "display": "EmergencyContactEmail",
+      "deleted": null
+    },
+    {
+      "name": "emergencycontactname_text",
+      "value": "text",
+      "display": "EmergencyContactName",
+      "deleted": null
+    },
+    {
+      "name": "emergencycontactphone_text",
+      "value": "text",
+      "display": "EmergencyContactPhone",
+      "deleted": null
+    },
+    {
+      "name": "emergencycontactrelationship_text",
+      "value": "text",
+      "display": "EmergencyContactRelationship",
+      "deleted": null
+    },
+    {
+      "name": "exam_section_results1_list_custom_exam_section1",
+      "value": "list.custom.exam_section1",
+      "display": "Exam Section Results",
+      "deleted": null
+    },
+    {
+      "name": "exam_section_results_list_custom_exam_section1",
+      "value": "list.custom.exam_section1",
+      "display": "Exam Section Results",
+      "deleted": null
+    },
+    {
+      "name": "firstappointmentdate_date",
+      "value": "date",
+      "display": "FirstAppointmentDate",
+      "deleted": null
+    },
+    {
+      "name": "firstname_text",
+      "value": "text",
+      "display": "FirstName",
+      "deleted": null
+    },
+    {
+      "name": "full_name_text",
+      "value": "text",
+      "display": "Full Name",
+      "deleted": null
+    },
+    {
+      "name": "gender_option_gender",
+      "value": "option.gender",
+      "display": "Gender",
+      "deleted": null
+    },
+    {
+      "name": "genderpreference_option_genderpreference",
+      "value": "option.genderpreference",
+      "display": "GenderPreference",
+      "default_val": "none",
+      "deleted": null
+    },
+    {
+      "name": "homephone_text",
+      "value": "text",
+      "display": "HomePhone",
+      "deleted": null
+    },
+    {
+      "name": "internships_list_custom_internship",
+      "value": "list.custom.internship",
+      "display": "Internships",
+      "deleted": null
+    },
+    {
+      "name": "isarchive_boolean",
+      "value": "boolean",
+      "display": "IsArchive",
+      "deleted": null
+    },
+    {
+      "name": "iscompany_boolean",
+      "value": "boolean",
+      "display": "IsCompany - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "ismember_boolean",
+      "value": "boolean",
+      "display": "IsMember",
+      "deleted": null
+    },
+    {
+      "name": "isprospect_boolean",
+      "value": "boolean",
+      "display": "IsProspect - deleted",
+      "default_val": false,
+      "deleted": true
+    },
+    {
+      "name": "isstudent_boolean",
+      "value": "boolean",
+      "display": "IsStudent",
+      "deleted": null
+    },
+    {
+      "name": "lastname_text",
+      "value": "text",
+      "display": "LastName",
+      "deleted": null
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes",
+      "deleted": null
+    },
+    {
+      "name": "membershipcategory_custom_membershipcategory",
+      "value": "custom.membershipcategory",
+      "display": "MembershipCategory",
+      "deleted": null
+    },
+    {
+      "name": "middlename_text",
+      "value": "text",
+      "display": "MiddleName",
+      "deleted": null
+    },
+    {
+      "name": "mobilephone_text",
+      "value": "text",
+      "display": "MobilePhone",
+      "deleted": null
+    },
+    {
+      "name": "mobileprovider_option_mobileprovider",
+      "value": "option.mobileprovider",
+      "display": "MobileProvider",
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "occupation_text",
+      "value": "text",
+      "display": "Occupation - deleted",
+      "deleted": true
+    },
+    {
+      "name": "occupationdemo_custom_occupation_data",
+      "value": "custom.occupation_data",
+      "display": "Occupationdemo",
+      "deleted": null
+    },
+    {
+      "name": "postalcode_number",
+      "value": "number",
+      "display": "PostalCode",
+      "deleted": null
+    },
+    {
+      "name": "preferred_month_text",
+      "value": "text",
+      "display": "Preferred Month",
+      "deleted": null
+    },
+    {
+      "name": "preferredstaff_custom_staff",
+      "value": "custom.staff",
+      "display": "PreferredStaff - deleted",
+      "deleted": true
+    },
+    {
+      "name": "preferredstaffdemo_text",
+      "value": "text",
+      "display": "PreferredStaffdemo",
+      "deleted": null
+    },
+    {
+      "name": "profileimage_image",
+      "value": "image",
+      "display": "ProfileImage",
+      "default_val": "//s3.amazonaws.com/appforest_uf/f1604233676567x540784849404492860/icons8-customer.png",
+      "deleted": null
+    },
+    {
+      "name": "prospectstatus_text",
+      "value": "text",
+      "display": "ProspectStatus",
+      "deleted": null
+    },
+    {
+      "name": "redalert_text",
+      "value": "text",
+      "display": "RedAlert",
+      "deleted": null
+    },
+    {
+      "name": "referenceclient_custom_client",
+      "value": "custom.client",
+      "display": "ReferenceClient - deleted",
+      "deleted": true
+    },
+    {
+      "name": "referenceclientdemo_text",
+      "value": "text",
+      "display": "ReferenceClientdemo",
+      "deleted": null
+    },
+    {
+      "name": "referencenumber_number",
+      "value": "number",
+      "display": "ReferenceNumber",
+      "deleted": null
+    },
+    {
+      "name": "referencetype1_custom_referencetype",
+      "value": "custom.referencetype",
+      "display": "ReferenceType",
+      "deleted": null
+    },
+    {
+      "name": "referencetype_custom_referencetype",
+      "value": "custom.referencetype",
+      "display": "ReferenceType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "referencetype_option_referencetype",
+      "value": "option.referencetype",
+      "display": "ReferenceType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sendaccountemails_boolean",
+      "value": "boolean",
+      "display": "SendAccountEmails",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sendaccounttexts_boolean",
+      "value": "boolean",
+      "display": "SendAccountTexts",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sendpromotionalemails_boolean",
+      "value": "boolean",
+      "display": "SendPromotionalEmails",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sendpromotionaltexts_boolean",
+      "value": "boolean",
+      "display": "SendPromotionalTexts",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sendscheduleemails_boolean",
+      "value": "boolean",
+      "display": "SendScheduleEmails",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "sendscheduletexts_boolean",
+      "value": "boolean",
+      "display": "SendScheduleTexts",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "servicecategorys_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategorys - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_option_clientstatus",
+      "value": "option.clientstatus",
+      "display": "Status",
+      "default_val": "active",
+      "deleted": null
+    },
+    {
+      "name": "workphone_text",
+      "value": "text",
+      "display": "WorkPhone",
+      "deleted": null
+    }
+  ],
+  "clientloop": [
+    {
+      "name": "clientloop_number",
+      "value": "number",
+      "display": "ClientNumber",
+      "deleted": null
+    }
+  ],
+  "clientloop1": [
+    {
+      "name": "clientnumber_number",
+      "value": "number",
+      "display": "ClientNumber",
+      "deleted": null
+    }
+  ],
+  "collection": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "type_option_collectiontype",
+      "value": "option.collectiontype",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "cost": [
+    {
+      "name": "altkategori_s_ralama_text",
+      "value": "text",
+      "display": "AltKategori-Sıralama",
+      "deleted": null
+    },
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "category1_custom_category",
+      "value": "custom.category",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "category1_option_category",
+      "value": "option.category",
+      "display": "Category1 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category2_custom_category",
+      "value": "custom.category",
+      "display": "Sub - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category2_option_category",
+      "value": "option.category",
+      "display": "Category2 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category3_custom_category",
+      "value": "custom.category",
+      "display": "Category3 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category3_option_category",
+      "value": "option.category",
+      "display": "Category3 - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "details_text",
+      "value": "text",
+      "display": "Details",
+      "deleted": null
+    },
+    {
+      "name": "hesap_s_ralamastaff_text",
+      "value": "text",
+      "display": "Hesap-Sıralama",
+      "deleted": null
+    },
+    {
+      "name": "hesap_text",
+      "value": "text",
+      "display": "Hesap-SıralamaVendor - deleted",
+      "deleted": true
+    },
+    {
+      "name": "invoice_file",
+      "value": "file",
+      "display": "Invoice",
+      "deleted": null
+    },
+    {
+      "name": "kategori_s_ralama_text",
+      "value": "text",
+      "display": "Kategori-Sıralama",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "paidamount_number",
+      "value": "number",
+      "display": "PaidAmount",
+      "deleted": null
+    },
+    {
+      "name": "payments_list_custom_payment",
+      "value": "list.custom.payment",
+      "display": "Payments",
+      "deleted": null
+    },
+    {
+      "name": "remainingamount_number",
+      "value": "number",
+      "display": "RemainingAmount",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "subcategory_custom_costsubcategories",
+      "value": "custom.costsubcategories",
+      "display": "Subcategory",
+      "deleted": null
+    },
+    {
+      "name": "sum_number",
+      "value": "number",
+      "display": "Sum",
+      "deleted": null
+    },
+    {
+      "name": "toplam_s_ralama_number",
+      "value": "number",
+      "display": "Toplam-Sıralama",
+      "deleted": null
+    },
+    {
+      "name": "type_option_costtype",
+      "value": "option.costtype",
+      "display": "Type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "vendor_custom_vendors",
+      "value": "custom.vendors",
+      "display": "Vendor",
+      "deleted": null
+    }
+  ],
+  "costsubcategories": [
+    {
+      "name": "category_custom_category",
+      "value": "custom.category",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "countries_data": [
+    {
+      "name": "country_name_text",
+      "value": "text",
+      "display": "country name",
+      "deleted": null
+    }
+  ],
+  "course": [
+    {
+      "name": "category_option_coursecategory",
+      "value": "option.coursecategory",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "certificaterequired_boolean",
+      "value": "boolean",
+      "display": "CertificateRequired",
+      "deleted": null
+    },
+    {
+      "name": "classes_list_custom_class",
+      "value": "list.custom.class",
+      "display": "Classes",
+      "deleted": null
+    },
+    {
+      "name": "content_text",
+      "value": "text",
+      "display": "Content",
+      "deleted": null
+    },
+    {
+      "name": "draft_boolean",
+      "value": "boolean",
+      "display": "Draft",
+      "deleted": null
+    },
+    {
+      "name": "examrequired_boolean",
+      "value": "boolean",
+      "display": "ExamRequired",
+      "deleted": null
+    },
+    {
+      "name": "hybridrequired_boolean",
+      "value": "boolean",
+      "display": "HybridRequired",
+      "deleted": null
+    },
+    {
+      "name": "hybritrequired_text",
+      "value": "text",
+      "display": "HybritRequired - deleted",
+      "deleted": true
+    },
+    {
+      "name": "image_image",
+      "value": "image",
+      "display": "Image",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "online_boolean",
+      "value": "boolean",
+      "display": "Online",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "participationrequired_boolean",
+      "value": "boolean",
+      "display": "ParticipationRequired",
+      "deleted": null
+    },
+    {
+      "name": "prerequisites_demo_list_text",
+      "value": "list.text",
+      "display": "prerequisites",
+      "deleted": null
+    },
+    {
+      "name": "prerequisites_list_custom_course",
+      "value": "list.custom.course",
+      "display": "Prerequisites - deleted",
+      "deleted": true
+    },
+    {
+      "name": "waitinglist_list_custom_client",
+      "value": "list.custom.client",
+      "display": "WaitingList",
+      "deleted": null
+    }
+  ],
+  "datareceiver": [
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "client",
+      "deleted": null
+    },
+    {
+      "name": "receiverenddate_date",
+      "value": "date",
+      "display": "receiverenddate",
+      "deleted": null
+    },
+    {
+      "name": "receiverenddate_number",
+      "value": "number",
+      "display": "receiverenddate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "receiverstartdate_date",
+      "value": "date",
+      "display": "receiverstartdate",
+      "deleted": null
+    }
+  ],
+  "district_data": [
+    {
+      "name": "district_name_text",
+      "value": "text",
+      "display": "district name",
+      "deleted": null
+    },
+    {
+      "name": "plate_number_number",
+      "value": "number",
+      "display": "plate number",
+      "deleted": null
+    }
+  ],
+  "divideddate": [
+    {
+      "name": "divideddate_number",
+      "value": "number",
+      "display": "divideddate - deleted",
+      "deleted": true
+    }
+  ],
+  "erkeniptal": [
+    {
+      "name": "erkeniptal_number",
+      "value": "number",
+      "display": "Erkeniptal - deleted",
+      "deleted": true
+    }
+  ],
+  "erkeniptal1": [
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "erkencount_number",
+      "value": "number",
+      "display": "erkencount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "note1_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note - deleted",
+      "deleted": true
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "exam": [
+    {
+      "name": "course_custom_course",
+      "value": "custom.course",
+      "display": "Course",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "pass_grade1_number",
+      "value": "number",
+      "display": "Pass Grade",
+      "deleted": null
+    },
+    {
+      "name": "pass_grade_number",
+      "value": "number",
+      "display": "Pass Grade - deleted",
+      "deleted": true
+    },
+    {
+      "name": "section_list_custom_exam_section",
+      "value": "list.custom.exam_section",
+      "display": "Section",
+      "deleted": null
+    },
+    {
+      "name": "total1_number",
+      "value": "number",
+      "display": "Total",
+      "deleted": null
+    },
+    {
+      "name": "total_number",
+      "value": "number",
+      "display": "Total - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type1_custom_exam_type",
+      "value": "custom.exam_type",
+      "display": "Type",
+      "deleted": null
+    },
+    {
+      "name": "type_custom_course",
+      "value": "custom.course",
+      "display": "Type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_custom_exam_type",
+      "value": "custom.exam_type",
+      "display": "Type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_list_text",
+      "value": "list.text",
+      "display": "Type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_option_coursecategory",
+      "value": "option.coursecategory",
+      "display": "Type - deleted",
+      "deleted": true
+    }
+  ],
+  "exam_result": [
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "exam_custom_exam",
+      "value": "custom.exam",
+      "display": "Exam",
+      "deleted": null
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "Status",
+      "deleted": null
+    },
+    {
+      "name": "student_custom_client",
+      "value": "custom.client",
+      "display": "Student",
+      "deleted": null
+    }
+  ],
+  "exam_section": [
+    {
+      "name": "exam_custom_exam",
+      "value": "custom.exam",
+      "display": "Exam",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "pass_grade1_number",
+      "value": "number",
+      "display": "Pass Grade",
+      "deleted": null
+    },
+    {
+      "name": "pass_grade_number",
+      "value": "number",
+      "display": "Pass Grade - deleted",
+      "deleted": true
+    },
+    {
+      "name": "total_number",
+      "value": "number",
+      "display": "Total - deleted",
+      "deleted": true
+    },
+    {
+      "name": "total_points_number",
+      "value": "number",
+      "display": "Total Points",
+      "deleted": null
+    }
+  ],
+  "exam_section1": [
+    {
+      "name": "exam_custom_exam",
+      "value": "custom.exam",
+      "display": "Exam",
+      "deleted": null
+    },
+    {
+      "name": "exam_result_custom_exam_result",
+      "value": "custom.exam_result",
+      "display": "Exam Result",
+      "deleted": null
+    },
+    {
+      "name": "exam_section_custom_exam_section",
+      "value": "custom.exam_section",
+      "display": "Exam Section",
+      "deleted": null
+    },
+    {
+      "name": "ispassed_boolean",
+      "value": "boolean",
+      "display": "isPassed",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pass_grade1_number",
+      "value": "number",
+      "display": "Student Grade",
+      "deleted": null
+    },
+    {
+      "name": "pass_grade2_number",
+      "value": "number",
+      "display": "Pass Grade - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pass_grade3_number",
+      "value": "number",
+      "display": "Pass Grade - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pass_grade_number",
+      "value": "number",
+      "display": "Pass Grade - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "student_custom_client",
+      "value": "custom.client",
+      "display": "Student",
+      "deleted": null
+    },
+    {
+      "name": "total_number",
+      "value": "number",
+      "display": "Total - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "total_points_number",
+      "value": "number",
+      "display": "Total Points - deleted",
+      "deleted": true
+    }
+  ],
+  "exam_type": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "expense": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "category_option_expensecategory",
+      "value": "option.expensecategory",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "expensecategory_custom_expensecategory",
+      "value": "custom.expensecategory",
+      "display": "ExpenseCategory",
+      "deleted": null
+    },
+    {
+      "name": "expensecategory_option_expensecategory",
+      "value": "option.expensecategory",
+      "display": "ExpenseCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "invoice_file",
+      "value": "file",
+      "display": "Invoice",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "expensecategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "file": [
+    {
+      "name": "archived_boolean",
+      "value": "boolean",
+      "display": "Archived",
+      "deleted": null
+    },
+    {
+      "name": "file_file",
+      "value": "file",
+      "display": "Attachment",
+      "deleted": null
+    },
+    {
+      "name": "marked_boolean",
+      "value": "boolean",
+      "display": "Marked",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "generaltraining": [
+    {
+      "name": "details_text",
+      "value": "text",
+      "display": "Details",
+      "deleted": null
+    },
+    {
+      "name": "enddate_date",
+      "value": "date",
+      "display": "EndDate",
+      "deleted": null
+    },
+    {
+      "name": "instructor_text",
+      "value": "text",
+      "display": "Instructor",
+      "deleted": null
+    },
+    {
+      "name": "instuctorcompany_text",
+      "value": "text",
+      "display": "InstuctorCompany",
+      "deleted": null
+    },
+    {
+      "name": "isavailable_boolean",
+      "value": "boolean",
+      "display": "IsAvailable",
+      "deleted": null
+    },
+    {
+      "name": "location_text",
+      "value": "text",
+      "display": "Location",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartDate",
+      "deleted": null
+    },
+    {
+      "name": "validmonths_number",
+      "value": "number",
+      "display": "ValidMonths",
+      "deleted": null
+    }
+  ],
+  "giftcard": [
+    {
+      "name": "cardid_text",
+      "value": "text",
+      "display": "CardID",
+      "deleted": null
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "price_number",
+      "value": "number",
+      "display": "Price - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sellonline_boolean",
+      "value": "boolean",
+      "display": "SellOnline - deleted",
+      "deleted": true
+    },
+    {
+      "name": "value_number",
+      "value": "number",
+      "display": "Value",
+      "deleted": null
+    }
+  ],
+  "il_data": [],
+  "internship": [
+    {
+      "name": "attendance_list_custom_internshipattendance",
+      "value": "list.custom.internshipattendance",
+      "display": "Attendance",
+      "deleted": null
+    },
+    {
+      "name": "attendance_number",
+      "value": "number",
+      "display": "Attendance - deleted",
+      "deleted": true
+    },
+    {
+      "name": "draft_boolean",
+      "value": "boolean",
+      "display": "Draft",
+      "deleted": null
+    },
+    {
+      "name": "enddate_date",
+      "value": "date",
+      "display": "EndDate",
+      "deleted": null
+    },
+    {
+      "name": "internship_text",
+      "value": "text",
+      "display": "Internship",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name - deleted",
+      "deleted": true
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartDate",
+      "deleted": null
+    },
+    {
+      "name": "status1_text",
+      "value": "text",
+      "display": "Status",
+      "deleted": null
+    },
+    {
+      "name": "status_boolean",
+      "value": "boolean",
+      "display": "Status - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "Status - deleted",
+      "deleted": true
+    },
+    {
+      "name": "student_custom_client",
+      "value": "custom.client",
+      "display": "Student",
+      "deleted": null
+    }
+  ],
+  "internshipattendance": [
+    {
+      "name": "endtime_date",
+      "value": "date",
+      "display": "EndTime",
+      "deleted": null
+    },
+    {
+      "name": "hours_date_range",
+      "value": "date_range",
+      "display": "Hours - deleted",
+      "deleted": true
+    },
+    {
+      "name": "savedby_user",
+      "value": "user",
+      "display": "SavedBy",
+      "deleted": null
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartTime",
+      "deleted": null
+    },
+    {
+      "name": "student_custom_client",
+      "value": "custom.client",
+      "display": "Student",
+      "deleted": null
+    },
+    {
+      "name": "totalhours_date",
+      "value": "date",
+      "display": "TotalHours - deleted",
+      "deleted": true
+    },
+    {
+      "name": "totalhours_number",
+      "value": "number",
+      "display": "TotalHours",
+      "deleted": null
+    },
+    {
+      "name": "userinternship_custom_internship",
+      "value": "custom.internship",
+      "display": "UserInternship",
+      "deleted": null
+    }
+  ],
+  "k": [],
+  "kampanyalimusteri": [
+    {
+      "name": "campaign_date_date",
+      "value": "date",
+      "display": "Campaign Date",
+      "deleted": null
+    },
+    {
+      "name": "campaign_implemented__boolean",
+      "value": "boolean",
+      "display": "Campaign implemented ",
+      "deleted": null
+    },
+    {
+      "name": "customer_name_text",
+      "value": "text",
+      "display": "Customer Name",
+      "deleted": null
+    },
+    {
+      "name": "customer_number_text",
+      "value": "text",
+      "display": "Customer Number",
+      "deleted": null
+    },
+    {
+      "name": "id_text",
+      "value": "text",
+      "display": "id",
+      "deleted": null
+    },
+    {
+      "name": "visited_boolean",
+      "value": "boolean",
+      "display": "Visited",
+      "deleted": null
+    }
+  ],
+  "lead": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "Email",
+      "deleted": null
+    }
+  ],
+  "leave": [
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Comment",
+      "deleted": null
+    },
+    {
+      "name": "duration_number",
+      "value": "number",
+      "display": "Duration",
+      "deleted": null
+    },
+    {
+      "name": "enddate_date",
+      "value": "date",
+      "display": "EndDate",
+      "deleted": null
+    },
+    {
+      "name": "leavetype_custom_leavetype",
+      "value": "custom.leavetype",
+      "display": "LeaveType",
+      "deleted": null
+    },
+    {
+      "name": "replacementstaff_custom_staff",
+      "value": "custom.staff",
+      "display": "replacementStaff",
+      "deleted": null
+    },
+    {
+      "name": "returndate_date",
+      "value": "date",
+      "display": "returnDate",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartDate",
+      "deleted": null
+    },
+    {
+      "name": "status_boolean",
+      "value": "boolean",
+      "display": "Status - deleted",
+      "deleted": true
+    },
+    {
+      "name": "status_option_leavestatus",
+      "value": "option.leavestatus",
+      "display": "Status",
+      "default_val": "onay_bekleyen",
+      "deleted": null
+    },
+    {
+      "name": "type_option_leavetype",
+      "value": "option.leavetype",
+      "display": "Type - deleted",
+      "default_val": "y_ll_k__zin",
+      "deleted": true
+    },
+    {
+      "name": "useddays_number",
+      "value": "number",
+      "display": "usedDays",
+      "deleted": null
+    }
+  ],
+  "leavetype": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "membershipcategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "mytable": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    }
+  ],
+  "mytable1": [
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "email",
+      "deleted": null
+    }
+  ],
+  "note": [
+    {
+      "name": "archived_boolean",
+      "value": "boolean",
+      "display": "Archived",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "content_text",
+      "value": "text",
+      "display": "Content",
+      "deleted": null
+    },
+    {
+      "name": "marked_boolean",
+      "value": "boolean",
+      "display": "Marked",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "occupation_data": [
+    {
+      "name": "occupation_name_text",
+      "value": "text",
+      "display": "occupation name",
+      "deleted": null
+    }
+  ],
+  "package": [
+    {
+      "name": "discountpercentage_number",
+      "value": "number",
+      "display": "DiscountPercentage",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "products_list_custom_product",
+      "value": "list.custom.product",
+      "display": "Products",
+      "deleted": null
+    },
+    {
+      "name": "sellonline_boolean",
+      "value": "boolean",
+      "display": "SellOnline",
+      "deleted": null
+    },
+    {
+      "name": "services_list_custom_pricing",
+      "value": "list.custom.pricing",
+      "display": "Services",
+      "deleted": null
+    }
+  ],
+  "parentcategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "payment": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "default_val": "t_rk_liras_",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "type_option_paymenttype",
+      "value": "option.paymenttype",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "pricing": [
+    {
+      "name": "appointmenttypes_list_custom_appointmenttype",
+      "value": "list.custom.appointmenttype",
+      "display": "ServiceGroups",
+      "deleted": null
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client - deleted",
+      "deleted": true
+    },
+    {
+      "name": "count_number",
+      "value": "number",
+      "display": "SessionCount",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "default_val": "t_rk_liras_",
+      "deleted": null
+    },
+    {
+      "name": "discountinued_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "expirationtype_option_expirationtype",
+      "value": "option.expirationtype",
+      "display": "ExpirationType",
+      "default_val": "sat___tarihi",
+      "deleted": null
+    },
+    {
+      "name": "expirationunit_option_expirationunit",
+      "value": "option.expirationunit",
+      "display": "ExpirationUnit",
+      "default_val": "ay",
+      "deleted": null
+    },
+    {
+      "name": "expiredate_date",
+      "value": "date",
+      "display": "ExpireDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "expiremonths_number",
+      "value": "number",
+      "display": "ExpirationLength",
+      "deleted": null
+    },
+    {
+      "name": "grossprice_number",
+      "value": "number",
+      "display": "Price",
+      "deleted": null
+    },
+    {
+      "name": "introductoryoffer_boolean",
+      "value": "boolean",
+      "display": "IntroductoryOffer",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "membershipcategory_option_membershipcategory",
+      "value": "option.membershipcategory",
+      "display": "MembershipCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "onlineprice_number",
+      "value": "number",
+      "display": "OnlinePrice",
+      "deleted": null
+    },
+    {
+      "name": "revenuecategory_option_revenuecategory",
+      "value": "option.revenuecategory",
+      "display": "RevenueCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "revenuecatetgory_custom_revenuecategory",
+      "value": "custom.revenuecategory",
+      "display": "RevenueCatetgory",
+      "deleted": null
+    },
+    {
+      "name": "sellonline_boolean",
+      "value": "boolean",
+      "display": "SellOnline",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "service_custom_service",
+      "value": "custom.service",
+      "display": "Service - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory",
+      "deleted": null
+    },
+    {
+      "name": "sessionnumber1_number",
+      "value": "number",
+      "display": "SessionNumber - deleted",
+      "default_val": 0,
+      "deleted": true
+    },
+    {
+      "name": "sessionnumber_number",
+      "value": "number",
+      "display": "SessionNumber - deleted",
+      "default_val": 0,
+      "deleted": true
+    },
+    {
+      "name": "sessiontype_option_sessiontype",
+      "value": "option.sessiontype",
+      "display": "SessionType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "taxincluded_number",
+      "value": "number",
+      "display": "TaxIncluded - deleted",
+      "deleted": true
+    },
+    {
+      "name": "taxrate_number",
+      "value": "number",
+      "display": "TaxRate - deleted",
+      "deleted": true
+    }
+  ],
+  "product": [
+    {
+      "name": "barcode_text",
+      "value": "text",
+      "display": "ProductID",
+      "deleted": null
+    },
+    {
+      "name": "category_option_category",
+      "value": "option.category",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "category_option_productcategory",
+      "value": "option.productcategory",
+      "display": "Type - deleted",
+      "deleted": true
+    },
+    {
+      "name": "color_text",
+      "value": "text",
+      "display": "Color",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "onlineprice_number",
+      "value": "number",
+      "display": "OnlinePrice - deleted",
+      "deleted": true
+    },
+    {
+      "name": "price_number",
+      "value": "number",
+      "display": "Price",
+      "deleted": null
+    },
+    {
+      "name": "profileimage_image",
+      "value": "image",
+      "display": "ProfileImage",
+      "deleted": null
+    },
+    {
+      "name": "size_text",
+      "value": "text",
+      "display": "Size",
+      "deleted": null
+    },
+    {
+      "name": "stocklevel_number",
+      "value": "number",
+      "display": "StockLevel",
+      "deleted": null
+    },
+    {
+      "name": "subcategory_custom_subcategory",
+      "value": "custom.subcategory",
+      "display": "Subcategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "supplier_text",
+      "value": "text",
+      "display": "Supplier",
+      "deleted": null
+    },
+    {
+      "name": "taxincluded_number",
+      "value": "number",
+      "display": "TaxIncluded - deleted",
+      "deleted": true
+    },
+    {
+      "name": "taxrate_number",
+      "value": "number",
+      "display": "TaxRate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_custom_producttype",
+      "value": "custom.producttype",
+      "display": "Type",
+      "deleted": null
+    },
+    {
+      "name": "type_option_productcategory",
+      "value": "option.productcategory",
+      "display": "Type - deleted",
+      "deleted": true
+    }
+  ],
+  "producttype": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "project": [
+    {
+      "name": "assignees_list_user",
+      "value": "list.user",
+      "display": "Users",
+      "deleted": null
+    },
+    {
+      "name": "client_list1_list_custom_client",
+      "value": "list.custom.client",
+      "display": "Client-list - deleted",
+      "deleted": true
+    },
+    {
+      "name": "client_list_list_custom_client",
+      "value": "list.custom.client",
+      "display": "Client-list",
+      "deleted": null
+    },
+    {
+      "name": "file_list_list_custom_file",
+      "value": "list.custom.file",
+      "display": "File-list",
+      "deleted": null
+    },
+    {
+      "name": "notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Note-list",
+      "deleted": null
+    },
+    {
+      "name": "task_list_list_custom_task",
+      "value": "list.custom.task",
+      "display": "Task-list",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    },
+    {
+      "name": "workspace_custom_workspace",
+      "value": "custom.workspace",
+      "display": "Organization",
+      "deleted": null
+    }
+  ],
+  "purchasedgiftcard": [
+    {
+      "name": "cardid_text",
+      "value": "text",
+      "display": "CardID",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "discountrate_number",
+      "value": "number",
+      "display": "DiscountRate",
+      "deleted": null
+    },
+    {
+      "name": "discounttype_option_discounttype",
+      "value": "option.discounttype",
+      "display": "DiscountType",
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "price_number",
+      "value": "number",
+      "display": "TotalPrice",
+      "deleted": null
+    },
+    {
+      "name": "value_number",
+      "value": "number",
+      "display": "Value",
+      "deleted": null
+    }
+  ],
+  "purchaseditem": [
+    {
+      "name": "activationdate_date",
+      "value": "date",
+      "display": "ActivationDate",
+      "deleted": null
+    },
+    {
+      "name": "amount1_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "amount_text",
+      "value": "text",
+      "display": "Amount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currency_number",
+      "value": "number",
+      "display": "Currency - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "discountrate_number",
+      "value": "number",
+      "display": "DiscountRate",
+      "deleted": null
+    },
+    {
+      "name": "discounttotal_number",
+      "value": "number",
+      "display": "DiscountTotal",
+      "deleted": null
+    },
+    {
+      "name": "discounttype_number",
+      "value": "number",
+      "display": "DiscountType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "discounttype_option_discounttype",
+      "value": "option.discounttype",
+      "display": "DiscountType",
+      "deleted": null
+    },
+    {
+      "name": "durationlength_number",
+      "value": "number",
+      "display": "ExpirationLength",
+      "deleted": null
+    },
+    {
+      "name": "durationtype_option_durationtype",
+      "value": "option.durationtype",
+      "display": "DurationType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "expirationtype_option_expirationtype",
+      "value": "option.expirationtype",
+      "display": "ExpirationUnit - deleted",
+      "deleted": true
+    },
+    {
+      "name": "expirationunit_option_expirationunit",
+      "value": "option.expirationunit",
+      "display": "ExpirationUnit",
+      "deleted": null
+    },
+    {
+      "name": "notax_boolean",
+      "value": "boolean",
+      "display": "NoTax",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "price_number",
+      "value": "number",
+      "display": "UnitPrice",
+      "deleted": null
+    },
+    {
+      "name": "product_custom_product",
+      "value": "custom.product",
+      "display": "Product - deleted",
+      "deleted": true
+    },
+    {
+      "name": "service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service",
+      "deleted": null
+    },
+    {
+      "name": "sessioncount_number",
+      "value": "number",
+      "display": "SessionCount",
+      "deleted": null
+    },
+    {
+      "name": "subtotal_number",
+      "value": "number",
+      "display": "SubTotal",
+      "deleted": null
+    },
+    {
+      "name": "totalprice_number",
+      "value": "number",
+      "display": "GrandTotal",
+      "deleted": null
+    }
+  ],
+  "purchasedproduct": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "discountrate_number",
+      "value": "number",
+      "display": "DiscountRate",
+      "deleted": null
+    },
+    {
+      "name": "discounttotal_number",
+      "value": "number",
+      "display": "DiscountTotal",
+      "deleted": null
+    },
+    {
+      "name": "discounttype_option_discounttype",
+      "value": "option.discounttype",
+      "display": "DiscountType",
+      "deleted": null
+    },
+    {
+      "name": "notax_boolean",
+      "value": "boolean",
+      "display": "NoTax",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "product_custom_product",
+      "value": "custom.product",
+      "display": "Product",
+      "deleted": null
+    },
+    {
+      "name": "subtotal_number",
+      "value": "number",
+      "display": "SubTotal",
+      "deleted": null
+    },
+    {
+      "name": "totalprice_number",
+      "value": "number",
+      "display": "GrandTotal",
+      "deleted": null
+    },
+    {
+      "name": "unitprice_number",
+      "value": "number",
+      "display": "UnitPrice",
+      "deleted": null
+    }
+  ],
+  "recurrence": [
+    {
+      "name": "appoinment_custom_appointment",
+      "value": "custom.appointment",
+      "display": "Appoinment",
+      "deleted": null
+    },
+    {
+      "name": "checkbo_ct_date",
+      "value": "date",
+      "display": "Checkbo_Ct - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox__a_boolean",
+      "value": "boolean",
+      "display": "Checkbox Ça",
+      "deleted": null
+    },
+    {
+      "name": "checkbox__a_date",
+      "value": "date",
+      "display": "Checkbox Ça - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_ct_boolean",
+      "value": "boolean",
+      "display": "Checkbox Ct",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_ct_date",
+      "value": "date",
+      "display": "Checkbox Ct - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_cu_boolean",
+      "value": "boolean",
+      "display": "Checkbox Cu",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_cu_date",
+      "value": "date",
+      "display": "Checkbox Cu - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_pa1_boolean",
+      "value": "boolean",
+      "display": "Checkbox Pa",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pa_boolean",
+      "value": "boolean",
+      "display": "Checkbox Pt",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pa_date",
+      "value": "date",
+      "display": "Checkbox Pa - deleted - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_pe_boolean",
+      "value": "boolean",
+      "display": "Checkbox Pe",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_pe_date",
+      "value": "date",
+      "display": "Checkbox Pe - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_pt_date",
+      "value": "date",
+      "display": "Checkbox Pt - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "checkbox_sa_boolean",
+      "value": "boolean",
+      "display": "Checkbox Sa",
+      "deleted": null
+    },
+    {
+      "name": "checkbox_sa_date",
+      "value": "date",
+      "display": "Checkbox Sa - deleted - deleted - deleted - deleted - deleted - deleted",
+      "deleted": true
+    },
+    {
+      "name": "choice1_option_choisestype",
+      "value": "option.choisestype",
+      "display": "Choice - deleted",
+      "deleted": true
+    },
+    {
+      "name": "choice_option_choisestype",
+      "value": "option.choisestype",
+      "display": "Choice",
+      "deleted": null
+    },
+    {
+      "name": "date_sday_number",
+      "value": "number",
+      "display": "Date'sDay - deleted",
+      "deleted": true
+    },
+    {
+      "name": "date_smonth_number",
+      "value": "number",
+      "display": "Date'sMonth - deleted",
+      "deleted": true
+    },
+    {
+      "name": "date_syear_number",
+      "value": "number",
+      "display": "Date'sYear - deleted",
+      "deleted": true
+    },
+    {
+      "name": "dateday_number",
+      "value": "number",
+      "display": "DateDay",
+      "deleted": true
+    },
+    {
+      "name": "dateon_date",
+      "value": "date",
+      "display": "DateOn",
+      "deleted": null
+    },
+    {
+      "name": "dateon_startdate1_number",
+      "value": "number",
+      "display": "DateOn-StartDate",
+      "deleted": null
+    },
+    {
+      "name": "dateon_startdate_number",
+      "value": "number",
+      "display": "DateOn-StartDate - deleted",
+      "deleted": true
+    },
+    {
+      "name": "divided_date_number",
+      "value": "number",
+      "display": "Divided Date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "input_number_number",
+      "value": "number",
+      "display": "input number - deleted",
+      "deleted": true
+    },
+    {
+      "name": "iterationnumber1_number",
+      "value": "number",
+      "display": "IterationNumber",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "iterationnumber_number",
+      "value": "number",
+      "display": "IterationNumber - deleted",
+      "default_val": 0,
+      "deleted": true
+    },
+    {
+      "name": "occurencenumber_number",
+      "value": "number",
+      "display": "OccurenceNumber",
+      "deleted": null
+    },
+    {
+      "name": "recurrencecalendar_option_recurrencetype",
+      "value": "option.recurrencetype",
+      "display": "RecurrenceCalendar",
+      "deleted": null
+    },
+    {
+      "name": "recurrencenumber_number",
+      "value": "number",
+      "display": "RecurrenceNumber",
+      "deleted": null
+    },
+    {
+      "name": "tamam_selected_boolean",
+      "value": "boolean",
+      "display": "Tamam-selected",
+      "deleted": null
+    }
+  ],
+  "referencetype": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "return": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "striketext_boolean",
+      "value": "boolean",
+      "display": "StrikeText - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_option_collectiontype",
+      "value": "option.collectiontype",
+      "display": "Type",
+      "deleted": null
+    }
+  ],
+  "revenuecategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "room": [
+    {
+      "name": "active_boolean",
+      "value": "boolean",
+      "display": "Active",
+      "deleted": null
+    },
+    {
+      "name": "capacity_number",
+      "value": "number",
+      "display": "Capacity",
+      "deleted": null
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "profileimage_image",
+      "value": "image",
+      "display": "ProfileImage",
+      "deleted": null
+    }
+  ],
+  "sale": [
+    {
+      "name": "bakiyemiktari_number",
+      "value": "number",
+      "display": "BakiyeMiktari - deleted",
+      "deleted": true
+    },
+    {
+      "name": "cartitem_custom_cartitem",
+      "value": "custom.cartitem",
+      "display": "CartItem",
+      "deleted": null
+    },
+    {
+      "name": "cartitems_list_custom_cartitem",
+      "value": "list.custom.cartitem",
+      "display": "CartItems",
+      "deleted": null
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "collections_list_custom_collection",
+      "value": "list.custom.collection",
+      "display": "Collections",
+      "deleted": null
+    },
+    {
+      "name": "discount_number",
+      "value": "number",
+      "display": "DiscountTotal",
+      "deleted": null
+    },
+    {
+      "name": "grandtotal_number",
+      "value": "number",
+      "display": "GrandTotal",
+      "deleted": null
+    },
+    {
+      "name": "isapproved_boolean",
+      "value": "boolean",
+      "display": "IsApproved",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "payments_list_custom_payment",
+      "value": "list.custom.payment",
+      "display": "Payments - deleted",
+      "deleted": true
+    },
+    {
+      "name": "purchasedgiftcards_list_custom_purchasedgiftcard",
+      "value": "list.custom.purchasedgiftcard",
+      "display": "PurchasedGiftCards - deleted",
+      "deleted": true
+    },
+    {
+      "name": "purchaseditems_list_custom_purchaseditem",
+      "value": "list.custom.purchaseditem",
+      "display": "PurchasedItems - deleted",
+      "deleted": true
+    },
+    {
+      "name": "purchasedproducts_list_custom_purchasedproduct",
+      "value": "list.custom.purchasedproduct",
+      "display": "PurchasedProducts - deleted",
+      "deleted": true
+    },
+    {
+      "name": "purchasedservices_list_custom_purchaseditem",
+      "value": "list.custom.purchaseditem",
+      "display": "PurchasedServices - deleted",
+      "deleted": true
+    },
+    {
+      "name": "remainingamount_number",
+      "value": "number",
+      "display": "RemainingAmount",
+      "deleted": null
+    },
+    {
+      "name": "return_custom_return",
+      "value": "custom.return",
+      "display": "Return - deleted",
+      "deleted": true
+    },
+    {
+      "name": "return_list_custom_return",
+      "value": "list.custom.return",
+      "display": "Return",
+      "deleted": null
+    },
+    {
+      "name": "saledatetime_date",
+      "value": "date",
+      "display": "SaleDate",
+      "deleted": null
+    },
+    {
+      "name": "service1_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service",
+      "deleted": null
+    },
+    {
+      "name": "service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicegroup_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sessionnumber_number",
+      "value": "number",
+      "display": "SessionNumber",
+      "default_val": 0,
+      "deleted": false
+    },
+    {
+      "name": "sessionsold_number",
+      "value": "number",
+      "display": "SessionSold - deleted",
+      "default_val": 0,
+      "deleted": true
+    },
+    {
+      "name": "subtotal_number",
+      "value": "number",
+      "display": "Subtotal",
+      "deleted": null
+    },
+    {
+      "name": "totalcollected_number",
+      "value": "number",
+      "display": "CollectedAmount",
+      "deleted": null
+    }
+  ],
+  "salescount": [
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "clients_list_custom_client",
+      "value": "list.custom.client",
+      "display": "clients",
+      "deleted": null
+    },
+    {
+      "name": "listnumber_number",
+      "value": "number",
+      "display": "ListNumber",
+      "deleted": null
+    },
+    {
+      "name": "number_number",
+      "value": "number",
+      "display": "number - deleted",
+      "deleted": true
+    },
+    {
+      "name": "packagecount_number",
+      "value": "number",
+      "display": "PackageCount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sale_completed_boolean",
+      "value": "boolean",
+      "display": "used-package",
+      "deleted": null
+    },
+    {
+      "name": "service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service",
+      "deleted": false
+    },
+    {
+      "name": "servicegroup_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup",
+      "deleted": null
+    },
+    {
+      "name": "sessionnumber_number",
+      "value": "number",
+      "display": "ListNumber - deleted",
+      "deleted": true
+    }
+  ],
+  "seansort": [
+    {
+      "name": "id_text",
+      "value": "text",
+      "display": "id",
+      "deleted": null
+    },
+    {
+      "name": "satis_adet_number",
+      "value": "number",
+      "display": "Satis Adet",
+      "deleted": null
+    },
+    {
+      "name": "satis_fiyat_number",
+      "value": "number",
+      "display": "Satis Fiyat",
+      "deleted": null
+    },
+    {
+      "name": "seans_ismi_text",
+      "value": "text",
+      "display": "Seans ismi",
+      "deleted": null
+    },
+    {
+      "name": "seansort_number",
+      "value": "number",
+      "display": "SeansOrt - deleted",
+      "deleted": true
+    }
+  ],
+  "seansort1": [
+    {
+      "name": "id_text",
+      "value": "text",
+      "display": "id",
+      "deleted": null
+    },
+    {
+      "name": "satis_adet_number",
+      "value": "number",
+      "display": "Satis Adet - deleted",
+      "deleted": true
+    },
+    {
+      "name": "satis_fiyat_number",
+      "value": "number",
+      "display": "Satis Fiyat - deleted",
+      "deleted": true
+    },
+    {
+      "name": "seans_ismi_text",
+      "value": "text",
+      "display": "Seans ismi",
+      "deleted": null
+    },
+    {
+      "name": "seansort1_number",
+      "value": "number",
+      "display": "SeansOrt",
+      "deleted": null
+    },
+    {
+      "name": "seansort_number",
+      "value": "number",
+      "display": "SeansOrt - deleted - deleted",
+      "deleted": true
+    }
+  ],
+  "segment": [
+    {
+      "name": "bcc_text",
+      "value": "text",
+      "display": "BCC - deleted",
+      "deleted": true
+    },
+    {
+      "name": "birthday_date",
+      "value": "date",
+      "display": "Birthday",
+      "deleted": null
+    },
+    {
+      "name": "cc_text",
+      "value": "text",
+      "display": "CC - deleted",
+      "deleted": true
+    },
+    {
+      "name": "city_text",
+      "value": "text",
+      "display": "City",
+      "deleted": null
+    },
+    {
+      "name": "clients_list_custom_client",
+      "value": "list.custom.client",
+      "display": "Clients",
+      "deleted": null
+    },
+    {
+      "name": "clientstatus_option_clientstatus",
+      "value": "option.clientstatus",
+      "display": "ClientStatus",
+      "deleted": null
+    },
+    {
+      "name": "from_text",
+      "value": "text",
+      "display": "From - deleted",
+      "deleted": true
+    },
+    {
+      "name": "gender_option_gender",
+      "value": "option.gender",
+      "display": "Gender",
+      "deleted": null
+    },
+    {
+      "name": "membercreateddate_date",
+      "value": "date",
+      "display": "MemberCreatedDate",
+      "deleted": null
+    },
+    {
+      "name": "memberlastappointment_date",
+      "value": "date",
+      "display": "MemberLastAppointment",
+      "deleted": null
+    },
+    {
+      "name": "membershipcategory_custom_membershipcategory",
+      "value": "custom.membershipcategory",
+      "display": "MembershipCategory",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "occupation_text",
+      "value": "text",
+      "display": "Occupation - deleted",
+      "deleted": true
+    },
+    {
+      "name": "occupationdemo_custom_occupation_data",
+      "value": "custom.occupation_data",
+      "display": "Occupationdemo",
+      "deleted": null
+    },
+    {
+      "name": "referencenumber_number",
+      "value": "number",
+      "display": "ReferenceNumber",
+      "deleted": null
+    },
+    {
+      "name": "referencetype_custom_referencetype",
+      "value": "custom.referencetype",
+      "display": "ReferenceType",
+      "deleted": null
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory",
+      "deleted": null
+    },
+    {
+      "name": "to_text",
+      "value": "text",
+      "display": "To - deleted",
+      "deleted": true
+    }
+  ],
+  "service": [
+    {
+      "name": "category_option_category",
+      "value": "option.category",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "count_number",
+      "value": "number",
+      "display": "Count",
+      "deleted": null
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "onlineprice_number",
+      "value": "number",
+      "display": "OnlinePrice - deleted",
+      "deleted": true
+    },
+    {
+      "name": "price_number",
+      "value": "number",
+      "display": "Price - deleted",
+      "deleted": true
+    },
+    {
+      "name": "pricing_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Pricing",
+      "deleted": null
+    },
+    {
+      "name": "sellonline_boolean",
+      "value": "boolean",
+      "display": "SellOnline - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory",
+      "deleted": null
+    },
+    {
+      "name": "staff_list_custom_staff",
+      "value": "list.custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "subcategory_custom_subcategory",
+      "value": "custom.subcategory",
+      "display": "Subcategory",
+      "deleted": null
+    },
+    {
+      "name": "taxincluded_number",
+      "value": "number",
+      "display": "TaxIncluded - deleted",
+      "deleted": true
+    },
+    {
+      "name": "taxrate_number",
+      "value": "number",
+      "display": "TaxRate - deleted",
+      "deleted": true
+    }
+  ],
+  "servicecategory": [
+    {
+      "name": "allowonline_boolean",
+      "value": "boolean",
+      "display": "AllowOnline",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "category_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client - deleted",
+      "deleted": true
+    },
+    {
+      "name": "color_text",
+      "value": "text",
+      "display": "Color",
+      "deleted": null
+    },
+    {
+      "name": "defaultcapacity_number",
+      "value": "number",
+      "display": "DefaultCapacity",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "servicetype_option_servicetype",
+      "value": "option.servicetype",
+      "display": "ServiceType - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_custom_servicetype",
+      "value": "custom.servicetype",
+      "display": "Type",
+      "deleted": null
+    },
+    {
+      "name": "type_option_servicetype",
+      "value": "option.servicetype",
+      "display": "Type - deleted",
+      "deleted": true
+    }
+  ],
+  "servicetype": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "session": [
+    {
+      "name": "attendancelist_list_custom_client",
+      "value": "list.custom.client",
+      "display": "AttendanceList",
+      "deleted": null
+    },
+    {
+      "name": "capacity_number",
+      "value": "number",
+      "display": "Capacity",
+      "deleted": null
+    },
+    {
+      "name": "enddate_date",
+      "value": "date",
+      "display": "EndDate",
+      "deleted": null
+    },
+    {
+      "name": "instructors_list_custom_staff",
+      "value": "list.custom.staff",
+      "display": "Instructors",
+      "deleted": null
+    },
+    {
+      "name": "location_custom_room",
+      "value": "custom.room",
+      "display": "Location",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "online_boolean",
+      "value": "boolean",
+      "display": "Online",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "startdate_date",
+      "value": "date",
+      "display": "StartDate",
+      "deleted": null
+    }
+  ],
+  "sessionsold": [
+    {
+      "name": "cellnumber_number",
+      "value": "number",
+      "display": "ListNumber",
+      "default_val": 0,
+      "deleted": null
+    },
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "recurrencecount_number",
+      "value": "number",
+      "display": "RecurrenceCount",
+      "default_val": 1,
+      "deleted": null
+    },
+    {
+      "name": "report_service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "report-Service",
+      "deleted": true
+    },
+    {
+      "name": "sale_custom_sale",
+      "value": "custom.sale",
+      "display": "Sale",
+      "deleted": null
+    },
+    {
+      "name": "salescount_custom_salescount",
+      "value": "custom.salescount",
+      "display": "SalesCount - deleted",
+      "deleted": true
+    },
+    {
+      "name": "salescountnumber_number",
+      "value": "number",
+      "display": "SalesCountnumber",
+      "deleted": null
+    },
+    {
+      "name": "service_custom_pricing",
+      "value": "custom.pricing",
+      "display": "Service",
+      "deleted": null
+    },
+    {
+      "name": "servicegroup1_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup",
+      "deleted": null
+    },
+    {
+      "name": "servicegroup_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup - deleted",
+      "deleted": true
+    },
+    {
+      "name": "sessionnumber_number",
+      "value": "number",
+      "display": "SessionNumber",
+      "deleted": null
+    },
+    {
+      "name": "soldcount_number",
+      "value": "number",
+      "display": "SoldCount",
+      "deleted": null
+    }
+  ],
+  "shift": [
+    {
+      "name": "dayofweektype_option_dayofweektype",
+      "value": "option.dayofweektype",
+      "display": "DayofWeekType",
+      "deleted": null
+    },
+    {
+      "name": "deleteshift_boolean",
+      "value": "boolean",
+      "display": "DeleteShift",
+      "deleted": null
+    },
+    {
+      "name": "endshift_startshift_number",
+      "value": "number",
+      "display": "EndShift-StartShift",
+      "deleted": null
+    },
+    {
+      "name": "endshifttime_date",
+      "value": "date",
+      "display": "EndShiftTime",
+      "deleted": null
+    },
+    {
+      "name": "fix_id_number",
+      "value": "number",
+      "display": "shift_id",
+      "deleted": null
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicecategorylist_list_custom_servicecategory",
+      "value": "list.custom.servicecategory",
+      "display": "ServiceCategoryList",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "startshifttime_date",
+      "value": "date",
+      "display": "StartShiftTime",
+      "deleted": null
+    }
+  ],
+  "staff": [
+    {
+      "name": "academic_boolean",
+      "value": "boolean",
+      "display": "Academic",
+      "deleted": null
+    },
+    {
+      "name": "address_text",
+      "value": "text",
+      "display": "Address",
+      "deleted": null
+    },
+    {
+      "name": "alwaysallowdoublebooking_boolean",
+      "value": "boolean",
+      "display": "AlwaysAllowDoubleBooking",
+      "deleted": null
+    },
+    {
+      "name": "appointmentinstructor_boolean",
+      "value": "boolean",
+      "display": "AppointmentInstructor",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "appointments_list_custom_appointment",
+      "value": "list.custom.appointment",
+      "display": "Appointments",
+      "deleted": null
+    },
+    {
+      "name": "approvedleaves_number",
+      "value": "number",
+      "display": "ApprovedLeaves",
+      "deleted": null
+    },
+    {
+      "name": "availableleaves1_number",
+      "value": "number",
+      "display": "AvailableLeaves",
+      "deleted": null
+    },
+    {
+      "name": "availableleaves_number",
+      "value": "number",
+      "display": "AvailableLeaves - deleted",
+      "deleted": true
+    },
+    {
+      "name": "bio_text",
+      "value": "text",
+      "display": "Bio",
+      "deleted": null
+    },
+    {
+      "name": "birthdate_date",
+      "value": "date",
+      "display": "BirthDate",
+      "deleted": null
+    },
+    {
+      "name": "city_text",
+      "value": "text",
+      "display": "City",
+      "deleted": null
+    },
+    {
+      "name": "country_text",
+      "value": "text",
+      "display": "Country",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date - deleted",
+      "deleted": true
+    },
+    {
+      "name": "department_text",
+      "value": "text",
+      "display": "Department - deleted",
+      "deleted": true
+    },
+    {
+      "name": "departmentdemo_custom_occupation_data",
+      "value": "custom.occupation_data",
+      "display": "Departmentdemo",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "Email",
+      "deleted": null
+    },
+    {
+      "name": "employerstaff_custom_staff",
+      "value": "custom.staff",
+      "display": "Employer",
+      "deleted": null
+    },
+    {
+      "name": "endworkdate_date",
+      "value": "date",
+      "display": "EndWorkDate",
+      "deleted": null
+    },
+    {
+      "name": "firstname_text",
+      "value": "text",
+      "display": "FirstName",
+      "deleted": null
+    },
+    {
+      "name": "full_name_text",
+      "value": "text",
+      "display": "Full Name",
+      "deleted": null
+    },
+    {
+      "name": "gender_option_gender",
+      "value": "option.gender",
+      "display": "Gender",
+      "deleted": null
+    },
+    {
+      "name": "homephone_text",
+      "value": "text",
+      "display": "HomePhone",
+      "deleted": null
+    },
+    {
+      "name": "independentcontractor_boolean",
+      "value": "boolean",
+      "display": "IndependentContractor",
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "isuser_boolean",
+      "value": "boolean",
+      "display": "IsUser",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "lastname_text",
+      "value": "text",
+      "display": "LastName",
+      "deleted": null
+    },
+    {
+      "name": "leaves_list_custom_leave",
+      "value": "list.custom.leave",
+      "display": "Leaves - deleted",
+      "deleted": true
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes",
+      "deleted": null
+    },
+    {
+      "name": "manager_custom_staff",
+      "value": "custom.staff",
+      "display": "Manager",
+      "deleted": null
+    },
+    {
+      "name": "middlename_text",
+      "value": "text",
+      "display": "MiddleName",
+      "deleted": null
+    },
+    {
+      "name": "mobilephone_text",
+      "value": "text",
+      "display": "MobilePhone",
+      "deleted": null
+    },
+    {
+      "name": "position_text",
+      "value": "text",
+      "display": "Position",
+      "deleted": null
+    },
+    {
+      "name": "postalcode_number",
+      "value": "number",
+      "display": "PostalCode",
+      "deleted": null
+    },
+    {
+      "name": "profileimage_image",
+      "value": "image",
+      "display": "ProfileImage",
+      "deleted": null
+    },
+    {
+      "name": "staffage_number",
+      "value": "number",
+      "display": "StaffAge",
+      "deleted": null
+    },
+    {
+      "name": "staffassignment_custom_staffassignment",
+      "value": "custom.staffassignment",
+      "display": "StaffAssignment - deleted",
+      "deleted": true
+    },
+    {
+      "name": "staffworktime_number",
+      "value": "number",
+      "display": "StaffWorkTime",
+      "deleted": null
+    },
+    {
+      "name": "startworkdate_date",
+      "value": "date",
+      "display": "StartWorkDate",
+      "deleted": null
+    },
+    {
+      "name": "workphone_text",
+      "value": "text",
+      "display": "WorkPhone",
+      "deleted": null
+    }
+  ],
+  "staffassignment": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "bookingtime_number",
+      "value": "number",
+      "display": "BookingTime",
+      "deleted": null
+    },
+    {
+      "name": "incometype_option_incometype",
+      "value": "option.incometype",
+      "display": "IncomeType",
+      "deleted": null
+    },
+    {
+      "name": "sessiontype_custom_appointmenttype",
+      "value": "custom.appointmenttype",
+      "display": "ServiceGroup",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "strikethrough": [
+    {
+      "name": "striketext_boolean",
+      "value": "boolean",
+      "display": "striketext",
+      "deleted": null
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "category_custom_category",
+      "value": "custom.category",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "task": [
+    {
+      "name": "assignees_list_user",
+      "value": "list.user",
+      "display": "Assignees",
+      "deleted": null
+    },
+    {
+      "name": "category_option_category",
+      "value": "option.category",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "category_text",
+      "value": "text",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "due_date_date",
+      "value": "date",
+      "display": "Due Date",
+      "deleted": null
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes",
+      "deleted": null
+    },
+    {
+      "name": "marked_boolean",
+      "value": "boolean",
+      "display": "Marked",
+      "deleted": null
+    },
+    {
+      "name": "note_text",
+      "value": "text",
+      "display": "Note",
+      "deleted": null
+    },
+    {
+      "name": "progress_number",
+      "value": "number",
+      "display": "Progress",
+      "deleted": null
+    },
+    {
+      "name": "status_text",
+      "value": "text",
+      "display": "Status",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "temporary": [
+    {
+      "name": "appointmentlist_list_custom_appointment",
+      "value": "list.custom.appointment",
+      "display": "Appointmentlist",
+      "deleted": null
+    }
+  ],
+  "test1": [
+    {
+      "name": "dataranges_list_date_range",
+      "value": "list.date_range",
+      "display": "dataranges",
+      "deleted": null
+    },
+    {
+      "name": "dates_date_range",
+      "value": "date_range",
+      "display": "dates",
+      "deleted": null
+    }
+  ],
+  "training": [
+    {
+      "name": "completiondate_date",
+      "value": "date",
+      "display": "CompletionDate",
+      "deleted": null
+    },
+    {
+      "name": "rating_number",
+      "value": "number",
+      "display": "Rating",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "status_option_trainingstatus",
+      "value": "option.trainingstatus",
+      "display": "Status",
+      "deleted": null
+    },
+    {
+      "name": "type_custom_generaltraining",
+      "value": "custom.generaltraining",
+      "display": "Type",
+      "deleted": null
+    },
+    {
+      "name": "type_option_trainingtypes",
+      "value": "option.trainingtypes",
+      "display": "Type - deleted",
+      "deleted": true
+    }
+  ],
+  "transaction": [
+    {
+      "name": "amount_number",
+      "value": "number",
+      "display": "Amount",
+      "deleted": null
+    },
+    {
+      "name": "category1_option_transactioncategory",
+      "value": "option.transactioncategory",
+      "display": "Category - deleted",
+      "default_val": "genel",
+      "deleted": true
+    },
+    {
+      "name": "category_option_transactioncategory",
+      "value": "option.transactioncategory",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "currency_option_currency",
+      "value": "option.currency",
+      "display": "Currency",
+      "default_val": "t_rk_liras_",
+      "deleted": null
+    },
+    {
+      "name": "date_date",
+      "value": "date",
+      "display": "Date",
+      "deleted": null
+    },
+    {
+      "name": "description_text",
+      "value": "text",
+      "display": "Description",
+      "deleted": null
+    },
+    {
+      "name": "installment_number",
+      "value": "number",
+      "display": "Installment - deleted",
+      "deleted": true
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    },
+    {
+      "name": "transactioncategory_custom_transactioncategory",
+      "value": "custom.transactioncategory",
+      "display": "TransactionCategory",
+      "deleted": null
+    }
+  ],
+  "transactioncategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "user_certificate": [
+    {
+      "name": "certficate_custom_certificate",
+      "value": "custom.certificate",
+      "display": "certficate",
+      "deleted": null
+    },
+    {
+      "name": "date_saved_date",
+      "value": "date",
+      "display": "Date Saved",
+      "deleted": null
+    },
+    {
+      "name": "issaved_boolean",
+      "value": "boolean",
+      "display": "isSaved",
+      "deleted": null
+    },
+    {
+      "name": "student_custom_client",
+      "value": "custom.client",
+      "display": "student",
+      "deleted": null
+    },
+    {
+      "name": "uniqueid_text",
+      "value": "text",
+      "display": "UniqueID",
+      "deleted": null
+    }
+  ],
+  "vendorcategory": [
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    }
+  ],
+  "vendors": [
+    {
+      "name": "address_text",
+      "value": "text",
+      "display": "Address",
+      "deleted": null
+    },
+    {
+      "name": "balance_number",
+      "value": "number",
+      "display": "Balance",
+      "deleted": null
+    },
+    {
+      "name": "category_custom_vendorcategory",
+      "value": "custom.vendorcategory",
+      "display": "Category",
+      "deleted": null
+    },
+    {
+      "name": "city_text",
+      "value": "text",
+      "display": "City",
+      "deleted": null
+    },
+    {
+      "name": "contact_text",
+      "value": "text",
+      "display": "ContactName",
+      "deleted": null
+    },
+    {
+      "name": "contactemail_text",
+      "value": "text",
+      "display": "ContactEmail",
+      "deleted": null
+    },
+    {
+      "name": "contactnote_text",
+      "value": "text",
+      "display": "ContactNote",
+      "deleted": null
+    },
+    {
+      "name": "contactphone1_text",
+      "value": "text",
+      "display": "ContactPhone - deleted",
+      "deleted": true
+    },
+    {
+      "name": "contactphone_text",
+      "value": "text",
+      "display": "ContactPhone",
+      "deleted": null
+    },
+    {
+      "name": "country_text",
+      "value": "text",
+      "display": "Country",
+      "deleted": null
+    },
+    {
+      "name": "email_text",
+      "value": "text",
+      "display": "Email",
+      "deleted": null
+    },
+    {
+      "name": "fax_text",
+      "value": "text",
+      "display": "Fax",
+      "deleted": null
+    },
+    {
+      "name": "iban_text",
+      "value": "text",
+      "display": "IBAN",
+      "deleted": null
+    },
+    {
+      "name": "isactive_boolean",
+      "value": "boolean",
+      "display": "IsActive",
+      "default_val": true,
+      "deleted": null
+    },
+    {
+      "name": "linked_file_custom_file",
+      "value": "custom.file",
+      "display": "Linked-File",
+      "deleted": null
+    },
+    {
+      "name": "linked_files_list_custom_file",
+      "value": "list.custom.file",
+      "display": "Linked-Files - deleted",
+      "deleted": true
+    },
+    {
+      "name": "linked_note_custom_note",
+      "value": "custom.note",
+      "display": "Linked-Note",
+      "deleted": null
+    },
+    {
+      "name": "linked_notes_list_custom_note",
+      "value": "list.custom.note",
+      "display": "Linked-Notes - deleted",
+      "deleted": true
+    },
+    {
+      "name": "name_text",
+      "value": "text",
+      "display": "Name",
+      "deleted": null
+    },
+    {
+      "name": "phone_text",
+      "value": "text",
+      "display": "Phone",
+      "deleted": null
+    },
+    {
+      "name": "postalcode_text",
+      "value": "text",
+      "display": "PostalCode",
+      "deleted": null
+    },
+    {
+      "name": "profileimage_image",
+      "value": "image",
+      "display": "ProfileImage",
+      "deleted": null
+    },
+    {
+      "name": "taxid_text",
+      "value": "text",
+      "display": "VergiNo",
+      "deleted": null
+    },
+    {
+      "name": "type_option_vendortype",
+      "value": "option.vendortype",
+      "display": "Category - deleted",
+      "deleted": true
+    },
+    {
+      "name": "type_option_vendortype0",
+      "value": "option.vendortype0",
+      "display": "Type",
+      "default_val": "t_zel",
+      "deleted": null
+    },
+    {
+      "name": "vd_text",
+      "value": "text",
+      "display": "VD",
+      "deleted": null
+    }
+  ],
+  "waiting": [
+    {
+      "name": "client_custom_client",
+      "value": "custom.client",
+      "display": "Client",
+      "deleted": null
+    },
+    {
+      "name": "selecteddate_date",
+      "value": "date",
+      "display": "SelectedDate",
+      "deleted": null
+    },
+    {
+      "name": "servicecategory_custom_servicecategory",
+      "value": "custom.servicecategory",
+      "display": "ServiceCategory - deleted",
+      "deleted": true
+    },
+    {
+      "name": "servicecategorylist_list_custom_servicecategory",
+      "value": "list.custom.servicecategory",
+      "display": "ServiceCategoryList",
+      "deleted": null
+    },
+    {
+      "name": "staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Staff",
+      "deleted": null
+    }
+  ],
+  "workspace": [
+    {
+      "name": "image_image",
+      "value": "image",
+      "display": "Image",
+      "deleted": null
+    },
+    {
+      "name": "members_list_user",
+      "value": "list.user",
+      "display": "Members",
+      "deleted": null
+    },
+    {
+      "name": "projects_list_custom_project",
+      "value": "list.custom.project",
+      "display": "Branches",
+      "deleted": null
+    },
+    {
+      "name": "title_text",
+      "value": "text",
+      "display": "Title",
+      "deleted": null
+    }
+  ],
+  "user": [
+    {
+      "name": "admin_boolean",
+      "value": "boolean",
+      "display": "Admin",
+      "default_val": false,
+      "deleted": null
+    },
+    {
+      "name": "department_text",
+      "value": "text",
+      "display": "Department",
+      "deleted": null
+    },
+    {
+      "name": "first_name_text",
+      "value": "text",
+      "display": "First Name",
+      "deleted": null
+    },
+    {
+      "name": "image_image",
+      "value": "image",
+      "display": "Image",
+      "deleted": null
+    },
+    {
+      "name": "job_title_text",
+      "value": "text",
+      "display": "Job Title",
+      "deleted": null
+    },
+    {
+      "name": "last_name_text",
+      "value": "text",
+      "display": "Last Name",
+      "deleted": null
+    },
+    {
+      "name": "linked_staff_custom_staff",
+      "value": "custom.staff",
+      "display": "Linked-Staff",
+      "deleted": null
+    },
+    {
+      "name": "projects_list_custom_project",
+      "value": "list.custom.project",
+      "display": "Projects",
+      "deleted": null
+    },
+    {
+      "name": "workspaces_list_custom_workspace",
+      "value": "list.custom.workspace",
+      "display": "Workspaces",
+      "deleted": null
+    }
+  ]
+}
